@@ -17,3 +17,4 @@ Lembrando que deve ser possível também converter de forma inversa ou seja:
 - Peso Chileno 🇨🇱 para Reais 🇧🇷
 
 **Como desafio extra é incentivado a deixar fluir a criatividade.**
+Foi adicionado a conversão do Dólar Canadense e a opção de escolher a conversão de temperaturas
