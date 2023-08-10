@@ -1,3 +1,5 @@
+![image](https://github.com/otthonleao/one-conversor-de-moedas/assets/54039360/afe43712-9500-456c-8fbd-1b6fe4e1998b)
+
 # Challenge ONE - Conversor de Modea
 Desafio da Formação Backend para desenvolver um conversor de moedas utilizando a linguagem Java, proposto pela Oracle Next Education.
 
